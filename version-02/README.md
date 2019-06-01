@@ -1,5 +1,9 @@
 ### This version include pure graphql using express-graphql (server side only).
 
+### running
+- server: `nodemon node src/app.js`
+- client: `npm start`
+
 using the query http://localhost:4000/grapql
 ````
 {
@@ -26,7 +30,7 @@ using the query http://localhost:4000/grapql
   }
 }
 {
-	ooks {
+	books {
 		name
 	}
 }

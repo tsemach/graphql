@@ -10,10 +10,13 @@
   "author": "Tsemach Mizrachi <tsemach.mizrachi@gmail.com> (http://tsemach.github.io)",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.16.4",
     "express-graphql": "^0.7.1",
     "graphql": "^14.1.1",
     "lodash": "^4.17.11",
+    "mongodb": "^3.2.6",
+    "mongoose": "^5.5.12",
     "nodemon": "^1.18.10"
   }
 }
