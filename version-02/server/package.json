@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js",
-    "debug": "nodemon app.js"
+    "start": "node src/app.js",
+    "debug": "nodemon src/app.js"
   },
   "author": "Tsemach Mizrachi <tsemach.mizrachi@gmail.com> (http://tsemach.github.io)",
   "license": "ISC",
